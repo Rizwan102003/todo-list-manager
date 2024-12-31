@@ -55,6 +55,9 @@ Remove a task by entering its ID.
 Mark a task as completed.   
 Exit the application with q or ctrl + C.   
 
+## Screenshots
+![Main Menu Screenshot](./screenshots/main_menu.png)
+
 ## Contributing
 Contributions are welcome! If you have ideas for new features or improvements, feel free to submit a pull request.
 
