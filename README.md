@@ -59,7 +59,7 @@ Exit the application with q or ctrl + C.
 Contributions are welcome! If you have ideas for new features or improvements, feel free to submit a pull request.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Contact
 For issues or suggestions, feel free to reach out:
