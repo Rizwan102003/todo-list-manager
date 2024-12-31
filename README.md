@@ -47,13 +47,13 @@ An interactive command-line To-Do List Manager built with Golang and SQLite, fea
 ```
 
 ## Usage
-Navigate the menu using Up and Down arrow keys.
-Press Enter to select an option:
-Add a new task with details like description, deadline, priority, and category.
-View the list of all tasks (completed and pending).
-Remove a task by entering its ID.
-Mark a task as completed.
-Exit the application with q or ctrl + C.
+Navigate the menu using Up and Down arrow keys.   
+Press Enter to select an option:   
+Add a new task with details like description, deadline, priority, and category.   
+View the list of all tasks (completed and pending).   
+Remove a task by entering its ID.   
+Mark a task as completed.   
+Exit the application with q or ctrl + C.   
 
 ## Contributing
 Contributions are welcome! If you have ideas for new features or improvements, feel free to submit a pull request.
